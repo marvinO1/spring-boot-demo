@@ -1,5 +1,5 @@
 Also man kann sich eigentlich recht einfach die Konfiguration überladen inden man das einfach
-via -D angibt. Dann wird dieses Property File zuerst geladen (first wins).
+via -D oder mit -- angibt. Dann wird dieses Property File zuerst geladen (first wins).
 
   cd target
   java -jar spring-boot-demo-0.1.0.jar --spring.config.location=file:../application-xxx.properties --debug
