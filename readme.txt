@@ -1,3 +1,5 @@
+http://localhost:9000/hello-world
+
 Also man kann sich eigentlich recht einfach die Konfiguration überladen inden man das einfach
 via -D oder mit -- angibt. Dann wird dieses Property File zuerst geladen (first wins).
 
